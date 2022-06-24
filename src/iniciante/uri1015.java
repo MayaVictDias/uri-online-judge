@@ -3,6 +3,10 @@ package iniciante;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author mayavictdias
+ *
+ */
 public class uri1015 {
 
 	public static void main(String[] args) {
