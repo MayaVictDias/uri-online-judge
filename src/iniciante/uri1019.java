@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class uri1019 {
 
+	/**
+	 * @author mayavictdias
+	 */
 	public static void main(String[] args) {
 		/*
 		 * Leia um valor inteiro, que é o tempo de duração em 
