@@ -22,3 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /bin/
+
+# Arquivos
+src/iniciante/uri1020.java
+src/iniciante/uri1021.java
+src/iniciante/uri1061.java
