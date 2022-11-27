@@ -3,7 +3,7 @@ package iniciante;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class uri1011 {
+public class Uri1011 {
 	
 	/**
 	 * @author mayavictdias

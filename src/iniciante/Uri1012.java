@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author mayavictdias
  *
  */
-public class uri1012 {
+public class Uri1012 {
 
 	/**
 	 * @author mayavictdias

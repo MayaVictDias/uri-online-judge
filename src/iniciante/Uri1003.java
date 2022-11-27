@@ -1,7 +1,7 @@
 package iniciante;
 import java.util.Scanner;
 
-public class uri1003 {
+public class Uri1003 {
 
 	/**
 	 * @author mayavictdias

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author mayavictdias
  *
  */
-public class uri1005 {
+public class Uri1005 {
 
 	public static void main(String[] args) {
 		

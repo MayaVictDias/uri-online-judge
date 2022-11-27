@@ -2,7 +2,7 @@ package iniciante;
 
 import java.util.Scanner;
 
-public class uri1018 {
+public class Uri1018 {
 
 	/**
 	 * @author mayavictdias
