@@ -32,7 +32,7 @@ public class Uri1037 {
 		scanner.close();
 		
 		if(numero >= 0.0 && numero <= 25.0) {
-			System.out.println("Intervalo (0,25]");
+			System.out.println("Intervalo [0,25]");
 		} else if(numero > 25.0 && numero <= 50.0) {
 			System.out.println("Intervalo (25,50]");
 		} else if(numero > 50.0 && numero <= 75.0) {
