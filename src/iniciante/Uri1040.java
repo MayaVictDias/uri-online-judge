@@ -41,8 +41,8 @@ public class Uri1040 {
 			
 			System.out.println("Aluno em exame.");
 			
-			System.out.print("Nota do exame: ");
 			float notaExame = scanner.nextFloat();
+			System.out.printf("Nota do exame: %.1f%n", notaExame);
 			
 			float mediaExame = (media + notaExame) / 2f;
 			
@@ -60,5 +60,6 @@ public class Uri1040 {
 		}
 		
 		scanner.close();
+		
 	}
 }
